@@ -1,156 +1,199 @@
-# PVZRH-Multi-language-Mod-Translation files
-> Note to developers: This repo's codes contain the **translation files and the associated mod artifacts**. Please reach out to us via e-mail or on Discord if you need the **Source code** for the **Translator mod**. You do **NOT** need to build from the source code if you are not a developer.
+<p align="center">🌻🧟</p>
 
-# Plants vs Zombies: Fusion | Downloads, Resources, etc. 
-***
-The download links for the Multi-language Mod and the translation files of the Multi-language Mod for PvZ: Fusion, as well as mirrors to the Chinese versions. Current supported base game version: **3.9**.
+<h1 align="center">Plants vs. Zombies Fusion | Multi-Language Translation</h1>
 
-> **Discord Server**:
->
-> Visit us on our [Discord Server](https://discord.gg/DPAC5ZVJ8T). This server is mainly a community for the English translation of the game, but also functions as a hub for all users of all versions. **If you're having trouble installing or you're getting errors, visit the server as well and go to the FAQ.**
+<p align="center">The community multi-language translation for <b>Plants vs. Zombies: Fusion</b> | translation files, translated textures, the Translator mod, and the official PC and Android download links, all in one place.</p>
 
-**Important**:
-- For Android: **DO NOT** delete your previous installation or you'll lose your progress forever! Download the APK and update the game normally.
-- For PC: You can safely uninstall your previous installations, your progress will carry over.
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-PC%20%C2%B7%20Android-558B2F" alt="Platform: PC · Android">
+  <a href="https://github.com/c12n/PVZF-Translation/releases/latest"><img src="https://img.shields.io/github/v/release/c12n/PVZF-Translation?label=Latest%20release&color=33691E" alt="Latest release"></a>
+  <a href="https://github.com/c12n/PVZF-Translation/releases"><img src="https://img.shields.io/github/downloads/c12n/PVZF-Translation/total?label=Downloads&color=33691E" alt="Downloads"></a>
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-33691E" alt="License: CC BY-NC 4.0">
+</p>
 
- PvZ Fusion Version  |  Platform  |  Download Links 
------- | ------ | ------
-**\_Redist (Install these if you have problems launching the game)** | PC | [MEGA](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg)
-**Multi-Language 4.0.5.2 Alpha** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/4.0.5_alpha)
-**Multi-Language 3.9 Alpha** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.9_alpha)
-**Multi-Language 3.8.1 Beta** | PC | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.8.1_beta)
-**English 3.9 by silvershadow** | Android | [Github Release](https://github.com/silvershadowkat/pvzf-android-translation/releases/tag/v3.9-release-9)
-**English 3.6.1 by Joseph Franci** | Android | [Github Release](https://github.com/Teyliu/PVZF-Translation/releases/tag/3.6.1_android)
-**Chinese 4.1** | PC | [MEGA](https://mega.nz/file/4nYiybqC#fvpqcDcgNm6S_vUpW0KysRxHDlceNQ3kQZsCTfw50yk) [Google Drive](https://drive.google.com/file/d/183yvh88iNhOnypwPToOqZkUS0DA-s4Fv/view?usp=sharing)
-**Chinese 4.1** | Android | [MEGA](https://mega.nz/file/J3I2jbwS#5zXAkb4_5uv-0yVsmNSB3Q3PIu7JTQljIG3fa3rrlwU) [Google Drive](https://drive.google.com/file/d/1cq6LfCI17unLtZXy8iWSt_Ka_iITd0KH/view?usp=sharing)
-**Chinese 4.0.5.2** | PC | [MEGA](https://mega.nz/file/43pSVKKQ#vK5Scy7hcxHubT3gf6n0WyUh-u76og3aMwqmKF7suk8) [Google Drive](https://drive.google.com/file/d/1QTC-GXVZSzGPMS1h-5ZPuuglRhJEE0le/view?usp=sharing)
-**Chinese 4.0.5.2** | Android | [MEGA](https://mega.nz/file/FiZyQCLC#XJwpzkSji6hob58PfaPNVYly_kSnPf-LIJqNiIX65Bg) [Google Drive](https://drive.google.com/file/d/1r_i1hDhrXtbyU9qX0btsHVnUV6XCzoLl/view?usp=sharing)
-**Chinese 4.0** | PC | [MEGA1](https://mega.nz/file/icQn1CxC#nOT3QlgcQlcpp3zXZUSmMDQpDAd5xqJqwQFkDXtuCzw) [MEGA2](https://mega.nz/file/QygXhBiI#gKRqZXE9bTjtcONBMqXXR6cTvmKure42305w-axTthA) [Google Drive](https://drive.google.com/file/d/1nZgr6-ler90a93rc2mW6xpPQQoXd1a-Q/view?usp=sharing)
-**Chinese 4.0** | Android | [MEGA1](https://mega.nz/file/HIgV2ARa#53E0TEU3bMd-6Rs52VLncwBBOhvTeeAXshQ6g9OnIYI) [MEGA2](https://mega.nz/file/M6RjQKpQ#le3t2m468uJZtHG03zwCWyexeaPFTw0JCBfDHyAoGLw) [Google Drive](https://drive.google.com/file/d/1S-lY6bNUrEMZ73qVq0BvantRN_1F3Zis/view?usp=sharing)
-**Chinese 3.9** | PC | [MEGA1](https://mega.nz/file/iEJmVCiB#LgM5oqmz9uF6IzGQYkHukjRMoJdDI43L6Pp4kqQu0_g) [MEGA2](https://mega.nz/file/syZlnAJB#6LEdBVYPfDYHINGpnO1acB0HRTUzc1Y_0SxlPQ-oCOE) [Google Drive](https://drive.google.com/file/d/1VMuLhJvi8r58UNzPE-esrWDvZguvAVKd/view?usp=sharing)
-**Chinese 3.9** | Android | [MEGA1](https://mega.nz/file/acJkgQgL#cP_qYAZvTOTAY7wvx9WMiVIsZRr-JxQLbZwnCKec8hU) [MEGA2](https://mega.nz/file/kjRjGIpL#9mwkpciCyYWu9qu-n7ChEfTi1GXwqNrcznfd7dnT3IE) [Google Drive](https://drive.google.com/file/d/1rKFDEr2Kb0AIYWpQZ-AlYeAj4cBtWloy/view?usp=sharing)
-**Chinese 3.8.1** | PC | [MEGA](https://mega.nz/file/mV5ACYba#608FJtZJJZejuRcmJA0UrWMOYOOSfRIFVtuKjjaw7jI) [Google Drive](https://drive.google.com/file/d/1ElKFFm4A9HCR5YoOy2dFbs9XwYFshnYe/view?usp=sharing)
-**Chinese 3.8.1** | Android | [MEGA](https://mega.nz/file/uEhVkILR#flDIuAi4zBP8JhkCWvoMiOQepqyJtrN1l1iIw1cl7iM) [Google Drive](https://drive.google.com/file/d/1qewfz1ssVZGckhHYPP3U-f7ngsD2a8X-/view?usp=sharing)
-**Chinese 3.7** | PC | [MEGA](https://mega.nz/file/6VIy3ZbZ#J0ycntt_DE6XxI6ZwkJsibVGDVED29GyuAF-wqPjWGM) [Google Drive](https://drive.google.com/file/d/1R01-pXXj_179Wa-CeNi7JbvmxsF2bUd2/view?usp=sharing)
-**Chinese 3.7** | Android | [MEGA](https://mega.nz/file/DIwQhLIb#jrQa4QMLfWogqAU_m2lMOb-bCc_8VfmGzaHuNjl462c) [Google Drive](https://drive.google.com/file/d/1G1ErJIBRqCVRDeS3Wwb4b-qkq7E3d5FF/view?usp=sharing)
-**Chinese 3.6.1** | PC | [MEGA](https://mega.nz/file/TERAlapA#cL50Ja1vsiPjagO4nt5mjMf2JWMlEr72Yr3s8O1PDks) [Google Drive](https://drive.google.com/file/d/1DuwJsYp3QKcfv6e3XQn8cOToksDHVLNO/view?usp=sharing)
-**Chinese 3.6.1** | Android | [MEGA](https://mega.nz/file/CFBFiSAD#krHwdwXIUHlh4oYO5c8x0QLzpPbsErJW0wmwU1WeEZI) [Google Drive](https://drive.google.com/file/d/1ir-yjLvNaOKJjd2lxgt4iacFpvHwMitJ/view?usp=sharing)
+<p align="center">
+  📥 <a href="https://github.com/c12n/PVZF-Translation/releases/latest"><b>Download the latest release</b></a> · 🔗 <a href="https://github.com/Teyliu/PVZF-Translation"><b>Upstream repo</b></a> · 🐛 <a href="https://github.com/Teyliu/PVZF-Translation/issues"><b>Report an issue</b></a>
+</p>
 
+`4.0.5.2 Alpha` · Multi-Language build for PC | base game 4.0.5, translation support for base game 3.9 and earlier.
 
-> Other versions (starting from 2.8.1) can be found on the [Releases page.](https://github.com/Teyliu/PVZF-Translation/releases)
->
-> Looking to play the Multi-Language on Linux? [Click Here](https://discord.com/channels/1320410104587227147/1320555521744437258) **(NOTE: You'll have to join our [Discord Server](https://discord.gg/DPAC5ZVJ8T) to read this guide!)**
+> [!NOTE]
+> **Unofficial fan project.** This is a fork of [Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation) for layout and reference. It is not affiliated with or endorsed by EA, PopCap, or the original Fusion team (LanPiaoPiaoFly / Blue Fly). All translation credit belongs to the upstream contributors listed under Credits.
 
-The Multi-Language version supports the following languages: **English**, **Chinese (Simplified)**, **Indonesian**, **French**, **Spanish**, ***Vietnamese**, **Japanese**, **Ukrainian**, **Romanian** and **Korean**. Other contained languages are empty for the moment.
+---
 
-	Up-to-date 3.8.1 - English, Korean
-	Last Updated 3.7 - Indonesian, Vietnamese
-	Last Updated 3.6.1 - Spanish
-	Last Updated 3.4.2 - Ukrainian
-	Gradually updating - French, Japanese
-	Last Updated 3.3.1 - Romanian
+## 🌟 Features
 
-	Languages below have been removed due to a lack of updates.
-	Last Updated 2.6.1 - Russian 
-	Last Updated 2.5.1 - Portuguese, Javanese
-	Last Updated 2.1.6 - German, Italian
-	Want to add your language here? Go to our Discord for more info!
+| **Multi-language game text**<br>Almanac and in-game string translations for English, Chinese (Simplified), Indonesian, French, Spanish, Vietnamese, Japanese, Ukrainian, Romanian and Korean. Some languages are complete to older base versions and update gradually. | **Translator mod included**<br>`PvZ_Fusion_Translator.dll` plus `AudioImportLib.dll` and `Blooms_QOL.dll` at the repo root, ready to drop into a MelonLoader install. The mod reads the JSON translation files in this repo. |
+| :--- | :--- |
+| **Translated textures**<br>Translated menu, almanac, seed packet and selector textures under `PvZ_Fusion_Translator/`, including the default texture set that ships with the mod. | **Plant and zombie IDs**<br>`PlantsAndZombiesIDs/` holds the plant and zombie ID lists used by translators, level makers and the almanac. |
+| **Translator scripts**<br>Four Python helpers in `Useful Scripts`: convert between JSON, CSV and XLSX, and compare almanac or string files between languages. See How to Use below. | **Online English Almanac**<br>A web almanac by CarrotD1scrd, linked in the upstream README. It updates slowly, so the in-game text in this repo is the current source. |
 
-## Installation Instructions (Multi-Language Version)
-> [**Video Guide**](https://youtu.be/90QiFtavLpY)
-1. Download from the link that says `Multi-Language` and `PC`.
-2. Extract the archive to `C:\Games` or `D:\Games` or **anywhere** as long as it's not on the following folders:
+---
+
+## 🚀 Installation
+
+### PC | Pre-patched (recommended)
+
+1. Download `PvZ.Fusion.Multi-lang.4.0.5.2.Alpha.by.Blooms.zip` from the [latest release](https://github.com/c12n/PVZF-Translation/releases/latest) into a **new folder**. Do not install over an older version.
+2. Extract it to a path with no special or non-ASCII characters, and not inside Downloads, Documents, Desktop, OneDrive or MEGA folders.
+3. Run the game through `Launch Game.bat` or `PlantsVsZombiesRH.exe`.
+4. If the game closes instantly, install the .NET 6.0 Desktop Runtime and everything in the Redist download linked in the upstream README, then try again.
+
+### PC | Manual MelonLoader install (optional)
+
+1. Get the base game from the original developers (Bilibili link in the upstream README).
+2. Install MelonLoader 0.7.1 and patch the game via Add Game Manually, selecting `PlantsVsZombiesRH.exe`.
+3. Download the source code ZIP of this repo and extract it into the `Mods` folder in your game folder.
+
+### Android
+
+1. Download an Android release APK from the [Releases page](https://github.com/Teyliu/PVZF-Translation/releases) (English Android builds are listed there, for example 3.6.1 and 3.5).
+2. Install the APK over your previous installation. **Do not delete your previous installation first, or you will lose your progress.**
+
+### iOS
+
+> [!IMPORTANT]
+> **There is no native iOS version, and no IPA can be built from this repo.** This repo contains translation JSON files, textures and compiled Windows mod DLLs for MelonLoader. It contains no Unity project and no Xcode project, and the original Fusion team ships the game for PC and Android only. Sites advertising a "PvZ Fusion IPA download" are not offering a real build from this project. A real iOS build would need the original Unity project from the Fusion team, built with the Unity iOS target.
+
+---
+
+## 📖 How to Use
+
+**Playing:** install as above, pick your language in game, and your saves carry over when you update the PC build (delete the old PC install folder first, into a new folder each time).
+
+**Translating:** all four scripts in `Useful Scripts` read files from the folder the script is in.
+
+1. `csver.py` converts `*.json` translation files to `*.csv` for spreadsheet editing.
+2. `jsonifier.py` converts a finished `*.xlsx` spreadsheet back into the `*.json` files the mod reads. Copy them to `Mods/PvZ_Fusion_Translator/Localization/<Language>/Almanac` or `Strings` in your game folder.
+3. `almanac_json_comparer.py` and `strings_json_comparer.py` compare your language against English, keeping your entries and appending untranslated English entries at the bottom.
+
+---
+
+## 🗺️ Roadmap
+
+This fork tracks upstream. Upstream status from the latest release notes:
+
+- Gods: Evolved almanac, Super Level Editor guide and Custom Online Levels translation support are **not** currently planned upstream.
+- Language coverage varies by base version: English and Korean are the most current, other languages update gradually through the online system.
+
+---
+
+## ⚠️ Known Issues
+
+- **iOS:** not available, in any form, from this project. See the iOS note under Installation.
+- **Mods:** the Multi-Language PC build is MelonLoader only and is **not** compatible with mods that require the BepInEx ecosystem.
+- **Paths:** the PC build fails or closes on paths containing special characters, or when extracted into user folders such as Downloads or Desktop.
+
+---
+
+## ❓ FAQ
+
+**Is it free?**
+Yes | free, no ads, no in-app purchases, non-commercial under CC BY-NC 4.0.
+
+**Is this the game itself?**
+The Releases on this repo bundle the pre-patched PC game with the translation for convenience. This repo itself is the translation files and mod artifacts, not the game source code.
+
+**Where is the Translator mod source code?**
+The upstream README notes the mod source is in a separate repo, and asks developers to reach out by email or Discord if they need it. You do not need to build from source to play.
+
+**Can I play it on iPhone or iPad?**
+No. There is no native iOS build and none has been announced by the Fusion team. See the iOS note under Installation.
+
+**Where do I get help with install errors?**
+The upstream Discord server linked in the upstream README, in its FAQ | Errors channel.
+
+---
+
+## 🔒 Privacy
+
+This repo is translation files, textures and mod DLLs. It adds no accounts and no analytics of its own. The fork changes presentation only.
+
+---
+
+## 🏗️ Built With
+
+- **Game:** Unity, by LanPiaoPiaoFly / Blue Fly and team (PC and Android only)
+- **Mod loader:** MelonLoader 0.7.1, .NET 6.0
+- **This repo:** JSON localization files, PNG textures, compiled mod DLLs, Python helper scripts
+
+## 🛠️ Build It Yourself
+
+There is nothing to compile here to play the game. Download a Release above instead.
+
+If you are a translator or developer:
+
+```sh
+git clone https://github.com/c12n/PVZF-Translation.git
+cd PVZF-Translation
+# Translation files: PvZ_Fusion_Translator/
+# Helper scripts: "Useful Scripts" (Python 3, run in place)
+# Mod DLLs: repo root (PvZ_Fusion_Translator.dll and friends)
 ```
-* Downloads/Documents or any User folders
-* OneDrive or MEGA
-* Desktop
-```
 
-3. Make sure your game path doesn't contain special characters. Check `#"FAQ | Errors"` in our server for more info.
-4. Run the game through `Launch Game.bat`.
-5. If something doesn't work, **read everything** in our server's `#"FAQ | Errors".`
-6. Regarding Updates: Just delete your old installation. Your saves will carry over.
-7. Install **everything** in the **_Redist zip file** which you can download from above , or [here](https://mega.nz/file/gzU2QTIY#R71lWGYvXCxG4WBtzLyCRkkHV-WGqKB84rXXR4ikOSg), **if** you encounter issues when launching the game.
+### GitHub Actions
 
-### The Online English Almanac
-***
-The Online English Almanac made by CarrotD1scrd can be found [here](https://carroti4ch.itch.io/almanac). Please be informed that it is updated slowly and what you see in here may not be *as accurate* or *up-to-date* as what's in-game.
-[![The Online English Almanac](https://i.imgur.com/K0burlh.jpeg)](https://carroti4ch.itch.io/almanac)
+| Workflow | Runs when | What it does |
+| --- | --- | --- |
+| **Keyword moderator** | On issues and comments | Upstream moderation workflow, the only workflow in this repo. There is no build workflow, because there is no app or game project here to build. |
+
+<details>
+<summary><b>Project layout</b></summary>
+
+- `PvZ_Fusion_Translator/` | translation JSON files, dumps and textures, by language
+- `PlantsAndZombiesIDs/` | `plantID.json` and `zombieID.json`
+- `Useful Scripts/` | the four Python converter and comparer scripts
+- `ConsolManager/` | console manager notes
+- `Docs/` | contributor documentation, including the French team reports
+- Repo root DLLs | `PvZ_Fusion_Translator.dll`, `AudioImportLib.dll`, `Blooms_QOL.dll`
+- `CURRENT_GAME_VER` | the base game version the translations currently target
+
+</details>
+
+---
 
 ## Credits
-***
-**蓝飘飘fly's Team** | Original Developers [Link to Bilibili](https://space.bilibili.com/3546619314178489)
------- | ------
-Program, Director | 蓝飘飘fly
-Animation | 蓝飘飘fly、机鱼
-Artist, Visual Director | 蓝飘飘fly
-Video Editor | 蓝飘飘fly、梦珞
-Animation Helper | 机鱼、蓝蝶
-Art Helper | 蓝蝶
-Special Thanks | 北窗遥望、 略nd、 MC-大麦、 潜艇伟伟迷、熔莹、 射命丸文、 使徒、 Tip杨山木雁、小黄鸡、 云耀yoke、 庄不纯
+
+| **LanPiaoPiaoFly's Team** | Original Developers |
+| --- | --- |
+| Program, Director | LanPiaoPiaoFly (Blue Fly) |
+| Animation | LanPiaoPiaoFly, JiYu |
+| Artist, Visual Director | LanPiaoPiaoFly |
+| Video Editor | LanPiaoPiaoFly, MengLuo |
+| Animation Helper | JiYu, LanDie |
+| Art Helper | LanDie |
 
 ### Translation Credits
-Person/People | Contribution
------- | ------
-__Mamoru-kun__ | Main Translator
-__NaKune__ | OG Translation Mod Creator
-__Climeron__ | Coding Help | Font Changing Implementation
-__Teyliu, Cassidy, JustNull, Dakosha__ | Coding
-__TrevTV__ | [Audio Changing Implementation](https://github.com/TrevTV/MelonLoader-AudioTools)
-__Rollerlhite__ | New Main Menu [Music](https://www.youtube.com/watch?v=aBj1MfvnHPE)
-__Cassidy__ | English PvZ Fusion Logo
-__Roaoming, Shel__ | Custom Textures
-__flexyj, CarrotD1scord__ | Translation Textures
-__Xabdi__  | Translation Textures, New In-Game Music
-__The Blooms Community__  | Translation ideas and assistance
 
-### Language Teams
-**Language** | **Members** | **Inactive Members**
------- | ------ | ------
-English | Mamoru-kun, Cassidy, Ungoodapple, JustTer, Invis19 | Dyna, Professor Cherry Zaitsev, Dimardan, IzzytehWolf, \|>.<\|, Diiax, Hetsuko, Metroidsans, Flow
-English Correction | TheXL, QwwYQ, Bertie690, revo | 
-[French](./Docs/french-contributions.md) | [Charles LINDECKER](./Docs/french-contributor/lindecker-charles.md), [Oarlina](./Docs/french-contributor/oarlina.md), [Hubtech](./Docs/french-contributor/hubtech.md), [Same-ael](./Docs/french-contributor/same_el.md) | Erwandawa123, Grymm80, Jedi, Ronny, Mamoru-kun
-Italian | No active translator | Dyna, Pasuqlaw, Daka
-German | No active translator | Stevenzocker, Dynagi
-Spanish | Xabdi, Teyliu, lucazz, Mauricio, Vict | Hairy Nugget, Moonlight, Arooming
-Portuguese | EduardoSA8006 | Bioxcis (Texture Editor), NickZin006, Prats, Shel (Texture Editor), Dgamer15 (Playtester)
-Javanese | No active translator | Xelag, 由羅 (Yura), JustTer, Star Apple
-Vietnamese | Shion, Cryda, JustNull | 
-Indonesian | Probkn, Ilham Gimank | 由羅 (Yura), Xelag, Seroja, Star Apple
-Russian | No active translator | Nekosha, LancerX0 (Coder), Kammerer
-Japanese | AnnieTGM | devilzwawa, Ryna (Marina), Mamoru-kun
-Korea | fumufumolover, 취미로 놀고 먹는 사람 | 설이 , ATMnou
-Ukrainian | Easter Wolf |
-Romanian | Rykon-V73 |
+| Person / People | Contribution |
+| --- | --- |
+| **Mamoru-kun** | Main Translator |
+| **NaKune** | OG Translation Mod Creator |
+| **Climeron** | Coding Help |
+| **Teyliu, Cassidy, JustNull, Dakosha** | Coding |
+| **TrevTV** | Audio Changing Implementation |
+| **Rollerlhite** | New Main Menu Music |
+| **Cassidy** | English PvZ Fusion Logo |
+| **Roaoming, Shel** | Custom Textures |
+| **flexyj, CarrotD1scord** | Translation Textures |
+| **Xabdi** | Translation Textures, New In-Game Music |
+| **The Blooms Community** | Translation ideas and assistance |
 
-This language team has a detailed contribution report : 
+Full language team lists are in the [upstream README](https://github.com/Teyliu/PVZF-Translation#language-teams).
 
-- [French Contributors — Full Report](./Docs/french-contributions.md)
+---
 
-## Notice to Translators
-The translator mod, `PvZ_Fusion_Translator.dll`, is open source, the repo can be found [here](https://github.com/Teyliu/PVZFusionTranslation). But you can grab the latest build on the root directory of this repo's main branch. It is constantly updated.
+## Disclaimer
 
-## Instructions on Using the Scripts in [`Useful Scripts`](https://github.com/Teyliu/PVZF-Translation/tree/main/Useful%20Scripts)
+This is an unofficial fan translation project and is not affiliated with, authorized, or endorsed by EA, PopCap, or the original Plants vs. Zombies: Fusion team. Provided "as is", without warranty of any kind.
 
-There are 4 Python scripts.
+- This project is **free** and non-commercial. If a third party charged you for it, you may have been misled.
+- No user data is collected by this repository.
 
-`csver.py` converts [`*.json` files](https://en.wikipedia.org/wiki/JSON?oldformat=true) to [`*.csv` files](https://en.wikipedia.org/wiki/Comma-separated_values?oldformat=true). The translation mod reads `*.json`'s to apply translations, while `*.csv`'s can be imported to an online spreadsheet like Google Spreadsheet to faciliate group editing, but with the downside of not being able to reflect changes in-game very easily. You can find the `*.json`'s by grabbing them from the mod files or download the spreadsheet as `*.xlsx` and convert them to `*.json` using another script, `jsonifier.py`.
+## 📄 License
 
-`jsonifier.py` converts an `*.xlsx` file into different `*.json`'s that are readily usable for the translation mod. When you have finished with the online spreadsheet, download it as `*.xlsx` and convert them to `*.json`'s, copy to where the mod reads them (usually, `[Your Game Location]\Game Files\Mods\PvZ_Fusion_Translator\Localization\X Language\Almanac or Strings`)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) | the upstream project's license. See [LICENSE](LICENSE). Commercial use is not permitted.
 
-`almanac_json_comparer.py` and `strings_json_comparer.py` handle comparisons of `*.json`'s between different translations, mostly between your language and English. These specifically compare `*.json`'s. Look inside the scripts to see the name requirements for the input files. They both prioritize using the language that's being worked on for entries that exists in both inputs, and append the entries only present in the English version (untranslated) at the bottom. N.B.: For the almanac, it only compares IDs, so balance changes are not reflected. 
-
-All 4 scripts read from the path where the script is located.
-
-
-ReadMe is under construction.
-> Reminder for myself to update the RM to include instructions for the scripts and a general guide to translating the game.
-
-
-## License
-
-All translation files in this repository are licensed under  
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
-🔗 https://creativecommons.org/licenses/by-nc/4.0/
-
-Commercial use is not permitted.
+> [!TIP]
+> **Star the upstream repo** ([Teyliu/PVZF-Translation](https://github.com/Teyliu/PVZF-Translation)) to support the translators and get notified about new releases directly from GitHub.
